@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is just a collection of notes:
+
+[[Brew update vs upgrade]]
