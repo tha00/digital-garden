@@ -6,7 +6,9 @@ tags:
 ---
  
 ## Question
-Let $x, y, z$ be positive real numbers such that $x+y+z=1$ and $xy+yz+xz=13$. What is the value of $\frac{4x}{y+1} + \frac{16y}{z+1} + \frac{64z}{x+1}$?
+Let $x, y, z$ be positive real numbers such that $x+y+z=1$ and $xy+yz+xz=13$.
+
+What is the value of $\frac{4x}{y+1} + \frac{16y}{z+1} + \frac{64z}{x+1}$?
 
 [Asked on Quora](https://www.quora.com/Let-x-y-z-be-positive-real-numbers-such-that-x-y-z-1-and-xy-yz-xz-frac-1-3-What-is-the-value-of-frac-4x-y-1-frac-16y-z-1-frac-64z-x-1)
 
