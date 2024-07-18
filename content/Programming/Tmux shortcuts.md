@@ -3,8 +3,7 @@ title: Tmux shortcuts
 draft: false
 tags:
 ---
- 
-[Tmux Cheat Sheet](https://tmuxcheatsheet.com/)
+ [Tmux Cheat Sheet](https://tmuxcheatsheet.com/)
 
 Leader key: `^a`  (default is `^b`)
 

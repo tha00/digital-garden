@@ -4,7 +4,6 @@ draft: false
 tags:
   - 
 ---
- 
 ## Question
 Let $x, y, z$ be positive real numbers such that $x+y+z=1$ and $xy+yz+xz=\frac{1}{3}$.
 
