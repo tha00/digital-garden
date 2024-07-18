@@ -21,7 +21,7 @@ with equality only if $x=y=z$. But since
 
 $$\frac{1}{3} = \frac{x+y+z}{3} \geq \sqrt{\frac{xy+yz+xz}{3}} = \sqrt{\frac{1}{9}} = \frac{1}{3},$$
 
-we must have equality giving $x=y=z=13$. Now we only have to plug in the values to obtain
+we must have equality giving $x=y=z=\frac{1}{3}$. Now we only have to plug in the values to obtain
 
 $$\frac{4x}{y+1} + \frac{16y}{z+1} + \frac{64z}{x+1} = \frac{\frac{84}{3}}{\frac{4}{3}} = 21$$
 
