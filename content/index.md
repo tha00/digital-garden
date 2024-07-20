@@ -7,6 +7,8 @@ This is just a collection of notes:
 
 [[Installing JDKs on MacOS]]
 
+[[Running Docker on MacOS]]
+
 [[Tmux shortcuts]]
 
 [[McLaurin inequality]]
