@@ -9,6 +9,8 @@ This is just a collection of notes:
 
 [[Running Docker on MacOS]]
 
+[[Java Foreign Function & Memory API]]
+
 [[Tmux shortcuts]]
 
 [[McLaurin inequality]]
