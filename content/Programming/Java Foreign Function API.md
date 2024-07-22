@@ -1,8 +1,7 @@
 ---
-title: "Java Foreign Function & Memory API"
+title: Java Foreign Function API
 draft: false
 tags:
-  - 
 ---
 Terminology:
 * *downcall method handle*: call native functions from Java
