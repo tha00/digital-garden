@@ -13,4 +13,6 @@ This is just a collection of notes:
 
 [[Tmux shortcuts]]
 
+[[TypeScript vs Java type systems]]
+
 [[McLaurin inequality]]
