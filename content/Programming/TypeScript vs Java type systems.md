@@ -29,3 +29,12 @@ class B {
 are equal types, that is `let a: A = new B();` is allowed.
 
 Anything that has a `string` property named `x` qualifies as an `A`.
+
+### Comparison
+
+Nominal types are safer as they prevent accidental type equivalence. Structural types are more flexible, e.g. new new super-types can be created without adapting the existing subtypes.
+
+
+References:
+* [Github issue](https://github.com/Microsoft/TypeScript/issues/202) discussing nominal types for TypeScript (~500 comments)
+* Mimicking nominal types in TypeScript using [brands](https://www.typescriptlang.org/play#example/nominal-typing)
