@@ -16,3 +16,5 @@ This is just a collection of notes:
 [[TypeScript vs Java type systems]]
 
 [[McLaurin inequality]]
+
+[[Jazzln]]
